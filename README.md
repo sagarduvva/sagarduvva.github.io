@@ -7,20 +7,44 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently leading Azure cloud transformation projects
-- 🧰 Passionate about Infrastructure as Code (IaC) and CI/CD automation
-- 🛡️ Focused on secure, scalable, and cost-optimized cloud environments
-- 📫 Reach me at [sagar.duvva@hotmail.com](mailto:sagar.duvva@hotmail.com) or [LinkedIn](https://linkedin.com/in/sagarduvva)
+-  Currently Available for Immediate Joining
+-  Passionate about Infrastructure as Code (IaC) and CI/CD automation
+-  Focused on secure, scalable, and cost-optimized cloud environments
+-  Reach me at [sagar.duvva@hotmail.com](mailto:sagar.duvva@hotmail.com) or [LinkedIn](https://linkedin.com/in/sagarduvva)
 
 ---
 
-## 🛠️ Skills & Tools
+## 📚 Certifications
 
-**Cloud & Containers**: Azure, AKS, Azure DevOps  
-**IaC & Automation**: Bicep, Terraform, PowerShell, Azure CLI  
-**CI/CD & Monitoring**: Azure Pipelines, Azure Monitor, Prometheus, Grafana  
-**Security & Governance**: Azure AD, RBAC, Key Vault, NSG  
-**OS & Virtualization**: Windows/Linux, VMware, Hyper-V
+- ✅ Microsoft Certified: Azure Administrator Associate (AZ-104)
+
+---
+
+## Core Competencies
+
+* Azure Cloud Architecture & Operations
+* Infrastructure Automation & CI/CD (Bicep, ARM, Terraform, PowerShell, AKS)
+* Cost & Performance Optimization
+* Team Leadership & Mentorship
+* Security & Compliance (PIM, RBAC, Encryption, NSGs, Firewalls)
+* Stakeholder & Delivery Management
+
+---
+
+## 🛠️ Technical Skills & Tools
+
+**Cloud Platforms & Services** Azure VMs, VM Scale Sets, AKS, VNets/Subnets, Load Balancer, Storage Accounts, Cost Management.
+**IaC & Automation**: Bicep, Terraform, PowerShell, Azure CLI, WSL CLI.
+**CI/CD & Monitoring**: Azure DevOps (Azure Pipelines), Azure Monitor, Prometheus, Grafana.
+**Security & Governance**: Azure AD, PIM, Management Groups, IAM, RBAC, Key Vault, NSGs, Azure Firewall.
+**OS & Virtualization**: Windows/Linux, VMware, Hyper-V.
+**Observability & Monitoring**: Log Analytics, Azure Monitor.
+
+
+**Cloud Platforms & Services:** , , ,  , , , , , , SQL PaaS, Recovery Services Vaults
+
+
+---
 
 ---
 
